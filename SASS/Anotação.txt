@@ -1,0 +1,2 @@
+sass --watch sass/style.scss:css/style.css  (para a pasta css ser observada pela SASS)
+sass  sass/style.scss:css/style.css --style compressed (para poder deixar o site mais rapido com o minify)
